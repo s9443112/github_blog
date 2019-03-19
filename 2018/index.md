@@ -2,6 +2,7 @@
 
 ## 10月
 * [10月24日 Hanging Rock](https://s9443112.github.io/github_blog/2018/2018-10-24/ "Hanging Rock")
+
 ## 11月
 * [11月14日 換新髮型](https://s9443112.github.io/github_blog/2018/2018-11-14/ "換新髮型")
 * [11月24日 Pokemon Eevee](https://s9443112.github.io/github_blog/2018/2018-11-24/ "Pokemon Eevee")
