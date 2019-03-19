@@ -1,6 +1,7 @@
 title: 邊緣工具狗窩
 description: 一天一西莎，病毒不上身
 theme: jekyll-theme-cayman
+show_downloads: true
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
