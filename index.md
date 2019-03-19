@@ -2,7 +2,9 @@
 
 [![Image](https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/52609098_2340778895956884_1731601784339693568_o.jpg?_nc_cat=110&_nc_ht=scontent.fsyd4-1.fna&oh=8a93d0d883c7f1e844c226de8cf69b28&oe=5D07A883)](https://www.facebook.com/s9443112)
 
->[Lazy Tea Time](https://lazyteatime.like.community/) is a place where I write various of stories.Readers here could link to the site by clicking the picture above.
+>試著使用Github架靜態網站
+
+>記錄著狗之傳說的點滴
 
 # Past Articles
 

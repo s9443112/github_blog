@@ -33,3 +33,9 @@ Un-break my heart |
 You give me love a bad name |
 Gonna make you sweet |
 The final countdown |
+
+* * *
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
