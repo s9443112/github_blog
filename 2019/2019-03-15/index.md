@@ -5,6 +5,8 @@
 ![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-15/IMG_3874.JPG)
 
 >Flinder with friends
+來自泰國的女孩 Jane
+感覺是一位網美呢 
 
 
 

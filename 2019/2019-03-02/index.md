@@ -10,8 +10,13 @@
 ![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/07.jpg)
 ![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/08.jpg)
 ![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/09.jpg)
->Chelsea Beach
 
+>Chelsea Beach
+新的同學 
+雖然還是來自我討厭的日本
+但是至少比之前的好上太多
+他們真的很友善 會找人一起出來玩
+雖然他們還是講日語啦
 
 
 * * *

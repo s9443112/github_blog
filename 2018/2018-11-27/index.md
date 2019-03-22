@@ -7,6 +7,9 @@
 ![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-11-27/IMG_2213.JPG)
 
 >Alfred Nicholas Gardens
+第二次excursion
+好多鸚鵡 證嚴法師一定很喜歡
+好想抓一隻回去養哈哈
 
 
 
