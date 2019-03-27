@@ -1,7 +1,7 @@
 # 2018/11/24
 # Pokemon Eevee
 
-![ALT_Text](2018/2018-11-24/IMG_2027.JPG)
+![ALT_Text](IMG_2027.JPG)
 
 >Pokemon Eevee!
 >懷舊兒時回憶

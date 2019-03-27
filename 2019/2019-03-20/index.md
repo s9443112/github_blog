@@ -29,8 +29,7 @@
 ![ALT_Text](Victoria Night market_190321_0024.jpg)
 ![ALT_Text](Victoria Night market_190321_0025.jpg)
 ![ALT_Text](Victoria Night market_190321_0026.jpg)
-![ALT_Text](Victoria Night market_190321_0027.jpg)
-![ALT_Text](Victoria Night market_190321_0028.jpg)
+
 
 >Night Market with my friends
 
