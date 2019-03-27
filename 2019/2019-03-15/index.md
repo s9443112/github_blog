@@ -1,8 +1,8 @@
 # 2019/03/15
 # Flinder with friends
 
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-15/IMG_3873.JPG?imageMogr2/auto-orient)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-15/IMG_3874.JPG?imageMogr2/auto-orient)
+![ALT_Text](IMG_3873.JPG?imageMogr2/auto-orient)
+![ALT_Text](IMG_3874.JPG?imageMogr2/auto-orient)
 
 >Flinder with friends
 來自泰國的女孩 Jane

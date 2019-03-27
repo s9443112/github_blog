@@ -1,8 +1,8 @@
 # 2018/09/05
 # With Julian
 
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-05/IMG_1545.JPG)
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-05/IMG_1546.JPG)
+![ALT_Text](2018/2018-09-05/IMG_1545.JPG)
+![ALT_Text](2018/2018-09-05/IMG_1546.JPG)
 
 Fabio 的朋友
 與他合照

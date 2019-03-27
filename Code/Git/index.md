@@ -1,7 +1,7 @@
 # Git
 # Base oprating way
 
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-01-12/IMG_2798.JPG)
+![ALT_Text](2019/2019-01-12/IMG_2798.JPG)
 
 
 先做基本的commit 流程

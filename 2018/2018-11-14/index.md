@@ -1,7 +1,7 @@
 # 2018/11/14
 # 換新髮型
 
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-11-14/IMG_1937.JPG)
+![ALT_Text](2018/2018-11-14/IMG_1937.JPG)
 
 New Style 
 台版李敏鎬 

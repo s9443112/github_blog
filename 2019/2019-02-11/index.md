@@ -1,7 +1,7 @@
 # 2019/02/11
 # Women's Party
 
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-02-11/IMG_1486.JPG)
+![ALT_Text](IMG_1486.JPG)
 
 >Women's Party
 這大概是我唯一一次跟班上的人一起出來吃飯吧

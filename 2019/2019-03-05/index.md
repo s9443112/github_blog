@@ -1,8 +1,8 @@
 # 2019/03/05
 # Chadston with friends
 
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-05/01.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-05/02.jpg)
+![ALT_Text](01.jpg)
+![ALT_Text](02.jpg)
 
 >Chadston with friends
 當一日導遊帶新同學們去Chadston逛逛

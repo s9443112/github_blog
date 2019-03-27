@@ -1,12 +1,12 @@
 # 2018/09/01
 # Flinder Street
 
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-01/IMG_1477.JPG)
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-01/IMG_1478.JPG)
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-01/IMG_1483.JPG)
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-01/IMG_1484.JPG)
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-01/IMG_1485.JPG)
-![ALT_Text](https://s9443112.github.io/github_blog/2018/2018-09-01/557464999.190568.jpg)
+![ALT_Text](2018/2018-09-01/IMG_1477.JPG)
+![ALT_Text](2018/2018-09-01/IMG_1478.JPG)
+![ALT_Text](2018/2018-09-01/IMG_1483.JPG)
+![ALT_Text](2018/2018-09-01/IMG_1484.JPG)
+![ALT_Text](2018/2018-09-01/IMG_1485.JPG)
+![ALT_Text](2018/2018-09-01/557464999.190568.jpg)
 
 
 每天下課都只能自己回家

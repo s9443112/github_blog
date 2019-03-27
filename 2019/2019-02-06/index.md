@@ -1,13 +1,11 @@
-# 2019/01/17
-# 蒜頭
-
-![ALT_Text](IMG_2814.JPG)
+# 2019/02/06
+# Great Ocean Road
 
 
->蒜頭
-幫著homepa編織蒜頭
-homepa很驚訝我能生吃蒜頭
-當然 這可是身為一個正港台灣台中人的技藝
+![ALT_Text](2019/2019-03-23/Street art, NGV_190324_0001.jpg)
+
+> Great Ocean Road
+
 
 
 * * *

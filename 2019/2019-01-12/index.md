@@ -1,7 +1,7 @@
 # 2019/01/12
 # 學膳會26屆大團拍
 
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-01-12/IMG_2798.JPG)
+![ALT_Text](IMG_2798.JPG)
 
 
 >學膳會26屆大團拍

@@ -1,15 +1,15 @@
 # 2019/03/02
 # Chelsea Beach
 
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/01.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/02.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/03.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/04.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/05.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/06.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/07.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/08.jpg)
-![ALT_Text](https://s9443112.github.io/github_blog/2019/2019-03-02/09.jpg)
+![ALT_Text](01.jpg)
+![ALT_Text](02.jpg)
+![ALT_Text](03.jpg)
+![ALT_Text](04.jpg)
+![ALT_Text](05.jpg)
+![ALT_Text](06.jpg)
+![ALT_Text](07.jpg)
+![ALT_Text](08.jpg)
+![ALT_Text](09.jpg)
 
 >Chelsea Beach
 新的同學 

@@ -1,7 +1,7 @@
 # Program Code
 
 ## Git
-* [Record](https://s9443112.github.io/github_blog/Code/Git/ "Git")
+* [Record](Code/Git/ "Git")
 
 ## Bash
 
