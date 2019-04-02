@@ -12,6 +12,8 @@
 * [2018年](2018/ "2018年的文章")
 * [2019年](2019/ "2019年的文章")
 * [Program Code](Code/ "Program Code")
+* [Autobiography 自傳](Profile/ "Autobiography 自傳")
+
 
 * * *
 

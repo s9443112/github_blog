@@ -1,7 +1,7 @@
 # 2017/05/23
 # 大三幹部上學期心得
 
-<table  cellspacing="0" cellpadding="0">
+<table  border="0">
 <tr>
 <td width="450"><img  valign="middle" src="IMG_1160.JPG" /></td>
 <td width="450" valign="middle">從來沒想過大學生涯會接社團幹部，因為之前前女友的關係，我很排斥社團，對社團有打從心底上的厭惡。我的好朋友，是我的學弟，也是我的好麻吉4N，找不到人當幹部，苦苦拜託我，我心軟 義氣相挺他，答應他接下學膳會活動長這個重大的職位，也帶來了我大三豐富及酸甜苦樂的體驗</td>

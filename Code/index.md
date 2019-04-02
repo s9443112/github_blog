@@ -1,7 +1,7 @@
 # Program Code
 
 ## Git
-* [Record](Code/Git/ "Git")
+* [Record](Git/ "Git")
 
 ## Bash
 
