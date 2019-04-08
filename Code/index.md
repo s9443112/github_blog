@@ -4,6 +4,7 @@
 * [Record](Git/ "Git")
 
 ## Bash
+* [Bash](Bash/ "Bash")
 
 ## Golang
 

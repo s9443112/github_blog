@@ -1,12 +1,12 @@
 # 狗之傳說
 
-[![Image](https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/52609098_2340778895956884_1731601784339693568_o.jpg?_nc_cat=110&_nc_ht=scontent.fsyd4-1.fna&oh=8a93d0d883c7f1e844c226de8cf69b28&oe=5D07A883)](https://www.facebook.com/s9443112)
+[![Image](/static/header.jpg)](https://www.facebook.com/s9443112)
 
 >試著使用Github架靜態網站
 
 >記錄著狗之傳說的點滴
 
-# Past Articles
+# 文章
 
 * [2017年](2017/ "2017年的文章")
 * [2018年](2018/ "2018年的文章")
