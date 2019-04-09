@@ -12,6 +12,18 @@ $ ssh root@127.0.0.1
 $ scp root@192.168.0.102:/home/1.txt /home/download
 ```
 
+服務管理
+```
+$ systemctl start OOXX
+$ systemctl restart OOXX
+$ systemctl stop OOXX
+$ systemctl enable OOXX
+$ systemctl disable OOXX
+$ systemctl status OOXX
+```
+
+
+
 
 * * *
 

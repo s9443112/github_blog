@@ -19,6 +19,7 @@
 
 ## 12月
 * [12月02日 Fucking abroad life](2018-12-02/ "Fucking abroad life")
+* [12月16日 自律](2018-12-16/ "自律")
 
 * * *
 

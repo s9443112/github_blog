@@ -3,6 +3,7 @@
 
 ![ALT_Text](2019/2019-01-12/IMG_2798.JPG)
 
+## 基本 commit 流程
 
 先做基本的commit 流程
 
@@ -33,13 +34,16 @@ $ git push origin dev
 ```
 然後在送MR給群組 自己merge (github 是PR)
 
-git remote
+## Git remote
 
 ```
 $ git remote add <name> <url>
 $ git remote remove <name>
 $ git remote
 ```
+
+Git branch
+
 
 
 
