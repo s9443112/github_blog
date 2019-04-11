@@ -4,6 +4,8 @@ theme: jekyll-theme-cayman
 facebook: https://www.facebook.com/s9443112
 show_downloads: false
 google_analytics: UA-138063782-1
+plugins:
+  - jekyll-sitemap
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
