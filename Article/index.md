@@ -10,6 +10,8 @@
 * [The best holiday](7/ "The best holiday")
 * [Weekend life part 2](8/ "Weekend life part 2")
 * [Scary things](9/ "Scary things")
+* [The person who is important in my life](10/ "he person who is important in my life")
+* [Life challenge](11/ "Life challenge")
 
 * * *
 
