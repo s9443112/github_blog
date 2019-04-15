@@ -22,6 +22,13 @@ $ systemctl disable OOXX
 $ systemctl status OOXX
 ```
 
+測試網路
+```
+$ ping www.google.com
+```
+
+
+
 
 
 
