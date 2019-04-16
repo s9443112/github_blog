@@ -27,11 +27,12 @@ $ systemctl status OOXX
 $ ping www.google.com
 ```
 
-
-
-
-
-
+Command history 
+```
+$ history 
+$ history -c  ## Delete all history
+$ history -d 1010  ## Delete number 1010 of history
+```
 * * *
 
 # Like Button
