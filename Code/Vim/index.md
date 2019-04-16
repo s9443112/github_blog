@@ -27,9 +27,9 @@ $ python3 ./install.py --clang-completer
 
 提示 "CMAKE_CXX_COMPILER-NOTFOUND "
 
-Check for working CXX compiler: CMAKE_CXX_COMPILER-NOTFOUND 
-CMake Error: your CXX compiler: "CMAKE_CXX_COMPILER-NOTFOUND" was not found.
-Please set CMAKE_CXX_COMPILER to a valid compiler path or name.
+  Check for working CXX compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+  CMake Error: your CXX compiler: "CMAKE_CXX_COMPILER-NOTFOUND" was not found.
+  Please set CMAKE_CXX_COMPILER to a valid compiler path or name.
 
 解决方法：
 ```

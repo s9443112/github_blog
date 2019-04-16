@@ -32,6 +32,30 @@ Command history
 $ history 
 $ history -c  ## Delete all history
 $ history -d 1010  ## Delete number 1010 of history
+
+## 使用fish shell
+
+依照作業系統指令安裝fish (Ubuntu)
+```
+$ apt install fish 
+```
+  使用fish 作為你的預設shell
+  所有的shell都條列在 /etc/shells 檔裡面:
+    bin/bash
+/bin/csh
+/bin/ksh
+/bin/sh
+/bin/tcsh
+/bin/zsh
+/usr/local/bin/fish # 新增你的 fish 在這裡
+
+使用chsh 改變你的預設shell
+```
+$ chsh -s /usr/local/bin/fish
+```
+
+
+
 ```
 * * *
 
