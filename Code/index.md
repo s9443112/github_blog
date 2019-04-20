@@ -12,6 +12,12 @@
 
 ## Openvpn
 
+## Ubuntu
+* [Ubuntu](Ubuntu/ "Ubuntu")
+
+## Vim
+* [Vim](Vim/ "Vim")
+
 >Backup Question and Code
 
 >If there's any question, just drop a message for me.
