@@ -3,7 +3,7 @@ description: 一天一西莎，病毒不上身
 theme: jekyll-theme-cayman
 facebook: https://www.facebook.com/s9443112
 show_downloads: false
-# google_analytics: UA-138063782-1
+google_analytics: UA-138063782-1
 plugins:
   - jekyll-sitemap
 # Disqus Comments
