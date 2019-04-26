@@ -1,10 +1,10 @@
 # 2019/03/18
 # Healesville Sanctuary
 
-![ALT_Text](IMG_0353.JPG)
-![ALT_Text](IMG_3915.JPG)
-![ALT_Text](IMG_3913.JPG)
-![ALT_Text](IMG_3917.JPG)
+![ALT_Text](IMG_0353.JPG){:class="lazyload"}
+![ALT_Text](IMG_3915.JPG){:class="lazyload"}
+![ALT_Text](IMG_3913.JPG){:class="lazyload"}
+![ALT_Text](IMG_3917.JPG){:class="lazyload"}
 
 >Healesville Sanctuary
 

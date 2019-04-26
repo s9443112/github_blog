@@ -3,7 +3,7 @@
 
 
 
-![ALT_Text](Cafe near Genferria_190402_0007.jpg)
+![ALT_Text](Cafe near Genferria_190402_0007.jpg){:class="lazyload"}
 
 
 
