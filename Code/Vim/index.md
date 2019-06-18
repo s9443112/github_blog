@@ -36,6 +36,13 @@ $ python3 ./install.py --clang-completer
 $ sudo apt-get install g++
 ```
 
+ERROR: Python headers are missing in /usr/include/python2.7[3.6].
+  ./install.py --clangd-completer编译安装YouCompleteMe时出现的问题
+
+解决方法：
+```
+$sudo apt-get install python2.7-dev python3.6-dev
+```
 
 * * *
 
