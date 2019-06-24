@@ -266,7 +266,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #fff; text-align: center;  background-image: url("https://scontent.fsyd4-1.fna.fbcdn.net/v/t1.0-9/52609098_2340778895956884_1731601784339693568_o.jpg?_nc_cat=110&_nc_ht=scontent.fsyd4-1.fna&oh=8a93d0d883c7f1e844c226de8cf69b28&oe=5D07A883"); 
+.page-header { color: #fff; text-align: center;  background-image: url("https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/52609098_2340778895956884_1731601784339693568_o.jpg?_nc_cat=110&_nc_ht=scontent-tpe1-1.xx&oh=eb45764590bd007c05838d340e82e2ef&oe=5D7E4F83"); 
    
     height: 500px;
     background-position: center;
